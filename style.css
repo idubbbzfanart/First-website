@@ -29,13 +29,11 @@ li a {
 li a:hover {
     background-color: #111;
 }
-body {
-    background-color: lightblue;
-}
+
 h1 {
     background-color: lightblue;
 }
 body {
-    background-image: url("landscape_background.jpg");
+    background-image: url("dream_background.jpg");
 }
 
