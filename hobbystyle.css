@@ -1,13 +1,30 @@
-ol{
-list-style-type: square;
-  color: green;
-  text-align: center;
-}
+
 h1 {
 color: green;
   text-align: center;
 }
-li {
-text-align: center;
+
+h2 {
+color: red;
+  text-align: center;
 }
+
+
+h3 {
+color: orange;
+  text-align: center;
+}
+
+h4 {
+color: purple;
+  text-align: center;
+}
+
+h5 {
+color: red;
+  text-align: center;
+}
+
+
+
 
