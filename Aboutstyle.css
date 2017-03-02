@@ -20,7 +20,7 @@ img.center {
     margin: 0 auto;
 }
 
-.rotateimg360{
+.rotateimg180{
   -webkit-transform:rotate(180deg);
   -moz-transform: rotate(180deg);
   -ms-transform: rotate(180deg);
