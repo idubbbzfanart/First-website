@@ -23,3 +23,8 @@ text-align: center;
 body {
 background-color: red;
 }
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
