@@ -5,24 +5,28 @@ color: green;
 }
 
 h2 {
-color: purple;
+color: red;
   text-align: center;
 }
 
 
 h3 {
-color: purple;
+color: red;
   text-align: center;
 }
 
 h4 {
-color: purple;
+color: red;
   text-align: center;
 }
 
 h5 {
-color: purple;
+color: red;
   text-align: center;
+}
+
+body {
+background-color: black;
 }
 
 
